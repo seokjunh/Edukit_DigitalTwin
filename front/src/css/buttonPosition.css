@@ -1,0 +1,16 @@
+.butp {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pg {
+  position: fixed;
+}
+
+.bt {
+  margin-left: auto;
+  margin-right: 150px;
+
+}

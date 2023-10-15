@@ -1,0 +1,49 @@
+.companyBackground {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.companyHeader {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  background-color: rgba(0, 255, 255, 0);
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.companyBody {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.companyBackground li {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  border-bottom: 2px solid rgb(109, 109, 109);
+}
+
+.companyBackground li:hover {
+  background-color: aliceblue;
+}
+
+.companyBackground button {
+  margin-bottom: 2%;
+  border-color: rgba(240, 248, 255, 0);
+  background-color: rgba(240, 248, 255, 0);
+  font-family: Inter;
+  /* 글꼴 지정 */
+  font-size: 15px;
+  font-family: 'Pretendard';
+  letter-spacing: normal;
+  font-weight: normal;
+  width: 100%;
+}

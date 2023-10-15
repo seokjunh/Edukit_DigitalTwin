@@ -1,0 +1,170 @@
+body,
+ul,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  background-color: #111;
+  color: #99999900;
+}
+
+.wrapper {
+  display: flex;
+  height: 85%;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  background-color: #99999900;
+  flex-direction: column;
+}
+
+.wrapperBox {
+  margin-top: 10px;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.uswer1 {
+  width: 230px;
+  height: 280px;
+  border: 1px solid #fff;
+}
+
+.team-item {
+  height: 100%;
+  flex-shrink: 0;
+  opacity: 0.9;
+  transition: all 0.4s;
+
+  /* overflow:hidden; */
+}
+
+.team-item:hover {
+  opacity: 1;
+  /* flex-basis: 160px; */
+  /* margin :0 100px; */
+}
+
+.team-item img {
+  width: 100%;
+  /* 기본 상태에서 이미지 너비 */
+  height: 100%;
+  transition: all 0.4s;
+}
+
+.team-item:hover img {
+  transform: scale(1.2);
+  /* 마우스 오버 상태에서의 이미지 너비 */
+}
+
+.profile {
+  background-color: #222;
+  position: relative;
+
+  /* overflow: hidden; */
+}
+
+.profile:before {
+  content: " ";
+  background: -moz-linear-gradient(
+    top,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.95) 100%
+  );
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.95) 100%
+  );
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.95) 100%
+  );
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#f2000000', GradientType=0);
+  /* IE6-9 */
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 200px;
+}
+
+.profile_red {
+  color: #ff4949;
+}
+
+.profile-contents {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  color: #29f4c8;
+  font-family: Inter;
+  font-style: normal;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.profile-contents h2 {
+  font-size: 17px;
+}
+
+.profile-contents h2 span {
+  display: block;
+  font-size: 10px;
+}
+
+.profile-contents p {
+  /* color: white; */
+  /* font-size: 10px;
+    min-width: 140px;
+    max-height: 0em;
+    overflow: hidden;
+    line-height: 1.2;
+    transition: all 1s;
+    opacity: 0; */
+  font-size: 10px;
+  min-width: 140px;
+  max-height: 0em;
+  /* overflow: hidden; */
+  line-height: 1.2;
+  transition-property: max-height, opacity;
+  transition-duration: 0.4s;
+  opacity: 0;
+}
+
+.team-item:hover .profile-contents p {
+  opacity: 1;
+  transition-delay: 0.4s;
+  max-height: 6em;
+  /* margin-top: 0.4em; */
+}
+
+/*
+ .profile-contents p {
+    color: white;
+    font-size: 10px;
+    min-width: 140px;
+    max-height: 1em;
+    overflow: hidden;
+    line-height: 1.2;
+    transition-property: all;
+    transition-duration: .4s;
+}
+
+.team-item:hover .profile-contents p {
+    max-height: 6em;
+}
+*/

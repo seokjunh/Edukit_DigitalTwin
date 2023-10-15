@@ -1,0 +1,17 @@
+.headerBody {
+    width: 80px;
+    height: 100px;
+    position: fixed;
+    display: flex;
+    margin-top: 5%;
+    right: 1.7%;
+    background-color: rgba(255, 255, 255, 0.758);
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    z-index: 99999;
+    border-radius: 5px;
+
+
+}

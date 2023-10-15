@@ -1,0 +1,46 @@
+.post {
+  background-color: black;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center; /* 세로 가운데 정렬 */
+  color: white; /* 텍스트 색상 변경 */
+}
+.post-height {
+  width: 100%;
+  border-radius: 30px;
+}
+
+.title-1 {
+  width: 45px;
+  font-size: 20px;
+  margin-left: 20rem;
+}
+
+.post-label-1 {
+  display: flex;
+  color: white;
+  margin: 10px 0;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+.content {
+  width: 45px;
+  font-size: 20px;
+  margin-left: 20rem;
+}
+
+.post-label-2 {
+  display: flex;
+  min-height: 50vh;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+.button-center {
+  text-align: center;
+  margin-top: 2rem;
+}

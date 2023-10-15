@@ -1,0 +1,191 @@
+.post-back-ground {
+  background-color: black;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 5%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 20px;
+}
+
+.info p {
+  color: #ffffff;
+  font-family: "Pretendard";
+  letter-spacing: normal;
+  font-weight: normal;
+  font-size: 9px;
+}
+
+.content-sectionBox {
+  width: 85%;
+  height: 100%;
+  display: flex;
+  background-color: rgba(46, 87, 123, 0);
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content-section {
+  width: 100%;
+  height: 80%;
+  background-color: #9ba0a600;
+  border-top: 1px solid rgb(255, 255, 255);
+  display: flex;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.post-content {
+  /* font-size: 26px; */
+  align-items: center;
+}
+
+.commentTxt {
+  width: 100%;
+  display: flex;
+  height: 50px;
+  border-bottom: 1px solid #ffffff;
+  align-items: center;
+}
+
+h3 {
+  color: #ffffff;
+  font-family: "Pretendard";
+  letter-spacing: normal;
+  font-weight: normal;
+  font-size: 45px;
+  margin: 0;
+}
+
+.comment-section {
+  width: 100%;
+  height: 20%;
+  overflow-y: auto;
+}
+
+.comment {
+  display: flex;
+  margin-top: 5px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+/* input {
+  width: 60%;
+  padding: 5px;
+  margin-right: 10px;
+} */
+
+.changeButton {
+  width: 20%;
+  display: flex;
+}
+
+button[type="submit"] {
+  background-color: #ffffff00;
+  color: rgb(255, 255, 255);
+  border: 2px solid #ffffff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+button[type="submit"]:hover {
+  background-color: #79abe0;
+}
+
+button[type="butto"] {
+  background-color: #ffffff00;
+  color: rgb(255, 255, 255);
+  border: 2px solid #ffffff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  margin-left: 1%;
+  width: 50px;
+  height: 25px;
+}
+
+button[type="butto"]:hover {
+  background-color: #77b6ff;
+}
+
+.update-label-1 {
+  display: flex;
+  color: gray;
+  width: 100%;
+  margin-bottom: 1rem;
+  /* border-radius: 30px; */
+}
+
+.update-label-2 {
+  display: flex;
+  color: gray;
+  width: 100%;
+  /* border-radius: 30px; */
+  min-height: 40vh;
+  margin-bottom: 1rem;
+}
+
+.modal {
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+/* 모달 버튼 스타일 */
+.modal-button {
+  display: flex;
+  border: none;
+  cursor: pointer;
+  justify-content: space-evenly;
+}
+
+.modal p {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Pretendard";
+  padding: 5%;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.comment button {
+  background-image: url("../../public/icon5.png");
+  background-size: cover;
+  /* 이미지를 딱 맞게 조절합니다. */
+  background-repeat: no-repeat;
+  /* 이미지 반복 없음 */
+  background-position: center center;
+  /* 이미지를 중앙 정렬합니다. */
+  width: 15px;
+  height: 15px;
+  background-color: #0057b300;
+  border: none;
+  margin-left: 1%;
+}

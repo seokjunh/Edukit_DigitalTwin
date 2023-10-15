@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: Inter;
+  font-family: 'Pretendard';
+  letter-spacing: normal;
+  padding: 2%;
+  font-weight: normal;
+  font-size: 25px;
+  margin-top: 30%;
+}
+
+p {
+  color: #ffffff;
+  text-align: center;
+  font-family: Inter;
+  font-family: 'Pretendard';
+  letter-spacing: normal;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+/* .WebGL-container {
+  display: flex;
+} */

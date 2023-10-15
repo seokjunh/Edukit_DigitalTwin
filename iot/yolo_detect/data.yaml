@@ -1,0 +1,13 @@
+names:
+- DICE1
+- DICE2
+- DICE3
+- DICE4
+- DICE5
+- DICE6
+- RedChip
+- WhiteChip
+nc: 8
+test: /test/images/
+train: train/images/
+val: valid/images/
