@@ -8,6 +8,7 @@
 #### 멘토: 김도현, 이다운
 #### 프로젝트 기간 : 23.08.29 ~ 23.09.20
 
+
 ## 웹개발팀 소개
 
 |      박주영       |          이강우         |       오현우         |       함석준         |
@@ -15,3 +16,6 @@
 |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/bbc106cb-c849-4469-989a-db796d33d5be.png" />    |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/1eb7836b-fd6b-424e-8697-2224cbb2b119" />    |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/cd96a81b-dc28-4a7b-b2e5-be2cfa24bbc0"/>   |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/c45e4cfa-f034-4b42-bfc9-f7a20d7d93e6"/>   |
 |            담당업무           |            담당업무           |            담당업무          |            담당업무           |
 |   Front-End/ WebDesign/ PLC   |   PM / Front-End / Back-End   |   Back-End / DB /Front-End   |   AI / IOT / PM / Back-End   |
+
+
+## 프로젝트 소개
