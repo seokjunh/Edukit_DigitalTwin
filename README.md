@@ -42,7 +42,7 @@
 
 |   메인 페이지   |   대시보드 페이지   |
 |:---------------:|:-------------------:|
-|   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/7ea43a57-03c9-4e51-b0d5-45d19d7cdf84"/> |   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/7e05a3ee-9d10-4643-862e-5364a30ee292"/>   |
+|   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/b08d14f0-e9fb-49d3-8a81-c975ec9f5335"/> |   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/7e05a3ee-9d10-4643-862e-5364a30ee292"/>   |
 |   일정 및 사원 관리 페이지   |   로그인 및 회원가입 페이지   |
 |   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/6838e997-e232-46b3-af6a-0d5f1d0aafa9"/>   |   <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/589adaf3-e950-4aa5-b818-def6c576fe1f"/>   |
 <br>
