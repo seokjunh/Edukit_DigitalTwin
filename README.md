@@ -33,7 +33,4 @@
 **시나리오 : YOLOv8을 활용하여 EDS 공정 중 Inking 단계에서 칩에 부여되는 식별자나 코드 자동 감지 수행**
 
 ## 기술 스택
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+<img src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/81225c0a-cdbb-4775-b697-10d467da0fad"/>
