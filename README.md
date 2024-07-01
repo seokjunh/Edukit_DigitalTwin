@@ -1,2 +1,3 @@
-# Edukit_DigitalTwin
-* * *
+# EDUKIT 디지털트윈 시스템 구축
+# 함박오이
+
