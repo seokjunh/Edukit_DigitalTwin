@@ -7,6 +7,7 @@
 #### 팀원: 이강우, 박주영, 오현우
 #### 멘토: 김도현, 이다운
 #### 프로젝트 기간 : 23.08.29 ~ 23.09.20
+<br>
 
 
 ## 웹개발팀 소개
@@ -16,7 +17,7 @@
 |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/bbc106cb-c849-4469-989a-db796d33d5be.png" />    |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/1eb7836b-fd6b-424e-8697-2224cbb2b119" />    |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/cd96a81b-dc28-4a7b-b2e5-be2cfa24bbc0"/>   |   <img width="160px" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/c45e4cfa-f034-4b42-bfc9-f7a20d7d93e6"/>   |
 |            담당업무           |            담당업무           |            담당업무          |            담당업무           |
 |   Front-End/ WebDesign/ PLC   |   PM / Front-End / Back-End   |   Back-End / DB /Front-End   |   AI / IOT / PM / Back-End   |
-
+<br>
 
 ## 프로젝트 소개
 
@@ -31,6 +32,7 @@
 위와 같은 실습장비의 특성을 이용하여, 저희 팀은 다음과 같은 시나리오로 프로젝트를 진행하였습니다.
 
 **시나리오 : YOLOv8을 활용하여 EDS 공정 중 Inking 단계에서 칩에 부여되는 식별자나 코드 자동 감지 수행**
+<br>
 
 ## 기술 스택
 <img src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/81225c0a-cdbb-4775-b697-10d467da0fad"/>
