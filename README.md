@@ -38,12 +38,15 @@
 <img src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/81225c0a-cdbb-4775-b697-10d467da0fad"/>
 <br>
 
+---
 ## 화면 구성 📺
 |   메인 페이지   |   대시보드 페이지   |
+| :-------------------------------------------: | :------------: |
 |  <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/ba7c1fd9-b440-4920-bb49-93455c553605"/> |  <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/7e05a3ee-9d10-4643-862e-5364a30ee292"/>|
 |   로그인 및 회원가입 페이지   |   일정 확인 및 사원 관리    |
 |  <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/6838e997-e232-46b3-af6a-0d5f1d0aafa9"/> |  <img width="329" src="https://github.com/seokjunh/Edukit_DigitalTwin/assets/130536128/589adaf3-e950-4aa5-b818-def6c576fe1f"/>|
 <br>
+---
 
 ## 구현 기능 📦
 ### ⭐️
